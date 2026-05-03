@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { Stack } from './lib/contentstack.ts';
+import { Stack } from './lib/contentstack';
 
 async function fetchWikiImage(query) {
   try {
