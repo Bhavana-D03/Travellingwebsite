@@ -1,7 +1,7 @@
 import fs from 'fs';
 import { Stack } from './lib/contentstack';
 
-async function fetchWikiImage(query) {
+async function fetchWikiImage(query: string) {
   try {
     const searchUrl = `https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&utf8=`;
     const searchRes = await fetch(searchUrl, { headers: { 'User-Agent': 'IndiaTravelPortal/1.0 (test@example.com)' } });
