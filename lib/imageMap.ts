@@ -1,0 +1,46 @@
+export const imageMap: Record<string, string> = {
+  "kerala backwaters": "https://upload.wikimedia.org/wikipedia/commons/e/ee/House_Boat_DSW.jpg",
+  "udaipur, rajasthan": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Evening_view%2C_City_Palace%2C_Udaipur.jpg",
+  "goa coastline": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/3840px-BeachFun.jpg",
+  "manali, himachal": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg",
+  "andaman islands": "https://loremflickr.com/800/600/andaman,beach/all",
+  "andaman island": "https://loremflickr.com/800/600/andaman,beach/all",
+  "jaipur, rajasthan": "https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg",
+  "agra, uttar pradesh": "https://upload.wikimedia.org/wikipedia/commons/6/68/Taj_Mahal%2C_Agra%2C_India.jpg",
+  "darjeeling, west bengal": "https://upload.wikimedia.org/wikipedia/commons/9/96/DarjeelingTrainFruitshop_%282%29.jpg",
+  "rishikesh, uttarakhand": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Trayambakeshwar_Temple_VK.jpg/3840px-Trayambakeshwar_Temple_VK.jpg",
+  "mysore, karnataka": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mysuru_Montage.jpg",
+  "hampi, karnataka": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hampi%2C_India%2C_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg/3840px-Hampi%2C_India%2C_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg",
+  "leh, ladakh": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Leh_City_seen_from_Shanti_Stupa.JPG/3840px-Leh_City_seen_from_Shanti_Stupa.JPG",
+  "varanasi, up": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg",
+  "pondicherry": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pondicherry-Rock_beach_aerial_view.jpg/3840px-Pondicherry-Rock_beach_aerial_view.jpg",
+  "shimla, himachal": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Landscape_of_Shimla_%2C_Himachal_Pradesh.jpg/3840px-Landscape_of_Shimla_%2C_Himachal_Pradesh.jpg",
+  "ooty, tamil nadu": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ooty_lake.jpg",
+  "coorg, karnataka": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tadiandamol_Valley%2C_Western_Ghats.jpg/3840px-Tadiandamol_Valley%2C_Western_Ghats.jpg",
+  "kumarakom lake resort": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kumarkom.jpg/3840px-Kumarkom.jpg",
+  "the oberoi udaivilas": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rajasthan_%286373261127%29.jpg",
+  "rambagh palace": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rambagh_Palace_hotel_Jaipur_lobby_courtyard.jpg/3840px-Rambagh_Palace_hotel_Jaipur_lobby_courtyard.jpg",
+  "ananda in the himalayas": "https://upload.wikimedia.org/wikipedia/commons/0/05/Viceregal_Palace%2C_Ananda_-_In_the_Himalayas%2C_Narendra_Nagar%2C_Uttarakhand.jpg",
+  "evolve back kamalapura": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/3840px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg",
+  "the grand dragon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Leh_City_seen_from_Shanti_Stupa.JPG/3840px-Leh_City_seen_from_Shanti_Stupa.JPG",
+  "brijrama palace": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Munshi_Ghat_in_Varanasi.jpg",
+  "palais de mahe": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pondicherry-Rock_beach_aerial_view.jpg/3840px-Pondicherry-Rock_beach_aerial_view.jpg",
+  "wildflower hall": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chharabra.jpg",
+  "the himalayan resort": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg",
+  "taj exotica resort & spa": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/3840px-BeachFun.jpg",
+  "panoramic getaway munnar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Munnar_Overview.jpg/3840px-Munnar_Overview.jpg",
+  "taj exotica andamans": "https://loremflickr.com/800/600/andaman,beach/all",
+  "the oberoi amarvilas": "https://upload.wikimedia.org/wikipedia/commons/6/68/Taj_Mahal%2C_Agra%2C_India.jpg",
+  "glenburn tea estate": "https://upload.wikimedia.org/wikipedia/commons/9/96/DarjeelingTrainFruitshop_%282%29.jpg",
+  "royal orchid metropole": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mysuru_Montage.jpg",
+  "savoy hotel, ooty": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ooty_lake.jpg",
+  "taj madikeri resort": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tadiandamol_Valley%2C_Western_Ghats.jpg/3840px-Tadiandamol_Valley%2C_Western_Ghats.jpg",
+  "taj exotic andamans": "https://loremflickr.com/800/600/andaman,beach/all",
+  "andama islands": "https://loremflickr.com/800/600/andaman,beach/all",
+  "andama island": "https://loremflickr.com/800/600/andaman,beach/all"
+};
+
+export function getRealImage(name: string, fallback: string): string {
+  if (!name) return fallback;
+  return imageMap[name.trim().toLowerCase()] || fallback;
+}

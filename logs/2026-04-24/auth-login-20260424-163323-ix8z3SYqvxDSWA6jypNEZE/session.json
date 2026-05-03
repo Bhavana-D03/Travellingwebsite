@@ -1,0 +1,17 @@
+{
+  "command": "auth:login",
+  "module": "login",
+  "userId": "60147993-d5b4-4faa-9c32-0bf2605bd901",
+  "email": "vishwasnarayan2345@gmail.com",
+  "sessionId": "ix8z3SYqvxDSWA6jypNEZE",
+  "apiKey": "bltc5b145668936e821",
+  "orgId": "",
+  "authenticationMethod": "Basic Auth",
+  "startTimestamp": "2026-04-24T11:03:23.774Z",
+  "MachineEnvironment": {
+    "nodeVersion": "v24.12.0",
+    "os": "win32",
+    "hostname": "DESKTOP-9MG59D1",
+    "CLI_VERSION": "1.61.0"
+  }
+}
