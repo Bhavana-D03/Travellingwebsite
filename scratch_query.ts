@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { imageMap } from './lib/imageMap.ts';
+import { imageMap } from './lib/imageMap';
 
 const newMap: Record<string, string> = {};
 
