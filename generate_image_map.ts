@@ -26,7 +26,7 @@ async function run() {
   const resortQ = await Stack.ContentType("resort").Query().toJSON().find();
   const resorts = resortQ[0];
 
-  const map = {};
+  const map: { [key: string]: string } = {};
 
   for (const d of destinations) {
     console.log("Fetching image for destination:", d.name);
